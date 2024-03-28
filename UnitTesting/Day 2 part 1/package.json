@@ -1,0 +1,14 @@
+{
+  "name": "example-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab2.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
